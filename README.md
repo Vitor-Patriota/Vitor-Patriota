@@ -62,8 +62,8 @@ Sou um desenvolvedor focado na criação de aplicações web e soluções backen
 ---
 
 <p align="center">
-  <a href="mailto:[SEU-EMAIL]">✉️ Me mande um email</a> •
-  <a href="[LINK-DO-SEU-LINKEDIN]">💼 Meu LinkedIn</a>
+  <a href="vitorpatriotadev@gmail.com">✉️ Me mande um email</a> •
+  <a href="https://www.linkedin.com/in/vitor-patriota/">💼 Meu LinkedIn</a>
 </p>
 
 </div>
