@@ -49,17 +49,7 @@ Sou um desenvolvedor focado na criação de aplicações web e soluções backen
 
 ---
 
-## 🚀 Projetos em Destaque
 
-**[E-commerce](link-do-repo)**<br>
-*Plataforma completa de e-commerce, contemplando listagem de produtos, gerenciamento de carrinho e processos de checkout.*
-
-<br>
-
-**[BarberManager](link-do-repo)**<br>
-*Sistema web para gerenciamento de barbearias, incluindo agendamento online pelo cliente e dashboard administrativo.*
-
----
 
 <p align="center">
   <a href="vitorpatriotadev@gmail.com">✉️ Me mande um email</a> •
